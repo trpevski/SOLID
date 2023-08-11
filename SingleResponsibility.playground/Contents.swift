@@ -1,6 +1,6 @@
 import UIKit
 
-///This repositor implementation contains more than one responsibility
+///This repository implementation contains more than one responsibility
 class ItemsRepository {
 
 	// MARK: - Fetch data
@@ -17,7 +17,7 @@ class ItemsRepository {
 	}
 }
 
-// MARK: - Repository implementation using Single responsibility principle
+///Repository implementation using Single responsibility principle
 class Repository {
 
 	// MARK: - External services
